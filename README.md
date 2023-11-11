@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @niwald
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Nik alias @n1knet
+- 👀 I’m interested in web-development and software architecture. 
+- 🌱 I’m currently learning NOT to use **vim** for projects.
+- 🚽 I'm not on Facebook, Whatsapp, Reddit, Telegram or similar networks, btw. 
+- 💻 Don't use Arch, btw.
 
 <!---
 niwald/niwald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
